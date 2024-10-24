@@ -8,6 +8,9 @@ I'm a passionate web developer with a focus on **Frontend Development** using **
 - **Frameworks**: Angular, Symfony
 - **Tools**: Git, Docker, CI/CD, Notion
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoinedelaplace&theme=dark&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
 ## 🌱 Currently Learning
 
 I'm currently working on enhancing my skills in:
