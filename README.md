@@ -1,22 +1,19 @@
 # Hi there, I'm Antoine Delaplace 👋
 
-I'm a passionate web developer with a focus on **Frontend Development** using **Angular**. I enjoy building user-friendly and efficient web applications that provide great user experiences.
+I'm a passionate web developer with a focus on **Frontend Development**. I enjoy building user-friendly and efficient web applications that provide great user experiences.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: TypeScript, JavaScript, PHP
-- **Frameworks**: Angular, Symfony
+- **Languages**: TypeScript, JavaScript
+- **Frameworks**: Angular, React, Nest.js
 - **Tools**: Git, Docker, CI/CD, Notion
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antoinedelaplace&theme=dark&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 ## 🌱 Currently Learning
 
 I'm currently working on enhancing my skills in:
-- Advanced Angular features
-- State management with NgRx
-- Building scalable applications
+- React
+- Backend dev
 
 ## 💼 Projects
 
