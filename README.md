@@ -25,7 +25,3 @@ Here are some of my notable projects:
 
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/antoine-delaplace-b83576106/)
 - Email: [antoine.delaplace@gmail.com](antoine.delaplace@gmail.com)
-
-## 🌟 Fun Fact
-
-I'm also interested in local products and love cooking with fresh ingredients!
