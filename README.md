@@ -17,9 +17,7 @@ I'm currently working on enhancing my skills in:
 
 ## 💼 Projects
 
-Here are some of my notable projects:
-- [**Angular Template**](https://github.com/antoinedelaplace/angular-template): A boilerplate for Angular projects with reusable services and CI/CD configuration.
-- **Locaux Loco**: A platform for local products and producers.
+I'm currently working on Kheops : https://www.kheops.io/
 
 ## 📫 Get in Touch
 
