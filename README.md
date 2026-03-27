@@ -1,19 +1,11 @@
 # Hi there, I'm Antoine Delaplace 👋
 
-I'm a passionate web developer with a focus on **Frontend Development**. I enjoy building user-friendly and efficient web applications that provide great user experiences.
+I'm a web developer with a focus on **Frontend Development**. My goal is to add the maximum buisness value with my technical skills.
 
 ## 🛠️ Technologies & Tools
 
 - **Languages**: TypeScript, JavaScript
 - **Frameworks**: Angular, React, Nest.js
-- **Tools**: Git, Docker, CI/CD, Notion
-
-
-## 🌱 Currently Learning
-
-I'm currently working on enhancing my skills in:
-- React
-- Backend dev
 
 ## 💼 Projects
 
